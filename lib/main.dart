@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -29,25 +30,29 @@ class MyApp extends StatelessWidget {
         ),
         backgroundColor: Colors.pink,
         body: Container(
+          width: double.infinity,
+          height: 300,
+          color: Colors.cyanAccent,
           child: Column(
+            // mainAxisSize: MainAxisSize.min,
             children: [
               Text(
                 "Aboud",
                 textAlign: TextAlign.center,
-                style: TextStyle(fontSize: 25,
+                style: TextStyle(
+                    fontSize: 25,
                     color: Colors.green,
-                fontWeight: FontWeight.bold),
+                    fontWeight: FontWeight.bold),
               ),
-              Text("Sofy",
+              Text(
+                "Aboud",
                 textAlign: TextAlign.center,
-                style: TextStyle(fontSize: 25,
-                    color: Colors.blue,
-                    fontWeight: FontWeight.bold),),
-              Text("Soa",
-                textAlign: TextAlign.center,
-                style: TextStyle(fontSize: 25,
-                    color: Colors.yellow,
-                    fontWeight: FontWeight.bold),)
+                style: TextStyle(
+                    fontSize: 25,
+                    color: Colors.green,
+                    fontWeight: FontWeight.bold),
+              ),
+
             ],
           ),
         ),
