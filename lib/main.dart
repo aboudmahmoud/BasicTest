@@ -31,9 +31,11 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.pink,
         body: Container(
           width: double.infinity,
-          height: 300,
+
           color: Colors.cyanAccent,
           child: Column(
+            mainAxisAlignment: MainAxisAlignment.end,
+            crossAxisAlignment: CrossAxisAlignment.start,
             // mainAxisSize: MainAxisSize.min,
             children: [
               Text(
