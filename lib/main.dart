@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 
 void main() {
@@ -12,18 +11,17 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
           actions: [
-            Icon(Icons.add),
-            Center(child: Container(child: Text("hello"),color: Colors.red,)),
-            TextButton(
-                onPressed: () {
-                  print("hello world");
-                },
-                child: Text('click here')),
-            IconButton(onPressed: (){print("U are Asowme Dud");},
-              icon: Icon(Icons.phone),color: Colors.green,)
+            IconButton(
+              onPressed: () {
+                print("U are Asowme Dud");
+              },
+              icon: Icon(Icons.phone),
+              color: Colors.green,
+            )
           ],
           backgroundColor: Colors.purple,
           leading: Icon(Icons.keyboard),
@@ -31,8 +29,27 @@ class MyApp extends StatelessWidget {
         ),
         backgroundColor: Colors.pink,
         body: Container(
-          color: Colors.white,
-          child: Text("Aboud"),
+          child: Column(
+            children: [
+              Text(
+                "Aboud",
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 25,
+                    color: Colors.green,
+                fontWeight: FontWeight.bold),
+              ),
+              Text("Sofy",
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 25,
+                    color: Colors.blue,
+                    fontWeight: FontWeight.bold),),
+              Text("Soa",
+                textAlign: TextAlign.center,
+                style: TextStyle(fontSize: 25,
+                    color: Colors.yellow,
+                    fontWeight: FontWeight.bold),)
+            ],
+          ),
         ),
       ),
     );
