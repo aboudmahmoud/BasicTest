@@ -30,32 +30,838 @@ class MyApp extends StatelessWidget {
         ),
         backgroundColor: Colors.pink,
         body: Container(
-          width: double.infinity,
+          // width: double.infinity,
 
           color: Colors.cyanAccent,
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.end,
-            crossAxisAlignment: CrossAxisAlignment.start,
-            // mainAxisSize: MainAxisSize.min,
-            children: [
-              Text(
-                "Aboud",
-                textAlign: TextAlign.center,
-                style: TextStyle(
-                    fontSize: 25,
-                    color: Colors.green,
-                    fontWeight: FontWeight.bold),
-              ),
-              Text(
-                "Aboud",
-                textAlign: TextAlign.center,
-                style: TextStyle(
-                    fontSize: 25,
-                    color: Colors.green,
-                    fontWeight: FontWeight.bold),
-              ),
+          child: SingleChildScrollView(
+            scrollDirection: Axis.horizontal,
+            child: Row(
+              // mainAxisAlignment: MainAxisAlignment.center,
+              // crossAxisAlignment: CrossAxisAlignment.end,
+              // mainAxisSize: MainAxisSize.min,
+              children: [
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ), Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),  Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ), Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),  Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ), Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),  Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ), Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),  Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ), Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),  Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ), Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),  Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ), Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),  Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ), Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
+                Text(
+                  "Aboud",
+                  textAlign: TextAlign.center,
+                  style: TextStyle(
+                      fontSize: 25,
+                      color: Colors.green,
+                      fontWeight: FontWeight.bold),
+                ),
 
-            ],
+
+
+              ],
+            ),
           ),
         ),
       ),
